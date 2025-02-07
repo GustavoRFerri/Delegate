@@ -1,0 +1,14 @@
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.exe
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.deps.json
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.runtimeconfig.json
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.dll
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.pdb
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.AssemblyInfoInputs.cache
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.AssemblyInfo.cs
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.csproj.CoreCompileInputs.cache
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.dll
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\refint\DelegateBasicExample.dll
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.pdb
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.genruntimeconfig.cache
+E:\GUSTAVO\curso TI\Advanced C# - Youtube\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\ref\DelegateBasicExample.dll
